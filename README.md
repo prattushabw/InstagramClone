@@ -1,7 +1,7 @@
 # Introduction
 The following is my own built-on Instagram, feel free to log in and create a post yourself and use some of the features!  
 
-link to see video of use: https://vimeo.com/842627640?share=copy
+link to see the video of use: https://vimeo.com/842627640?share=copy
 
 # InstagramClone
 
